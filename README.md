@@ -11,4 +11,10 @@ This is a simple personal portfolio website built using HTML and CSS.
 Just open `index.html` in your browser.
 
 ## Live Demo
-(isi nanti kalau sudah pakai GitHub Pages)
+ https://abeyyyyyy.github.io/personal-portfolio/
+
+## Repository
+https://github.com/Abeyyyyyy/personal-portfolio
+
+## Roadmap
+https://roadmap.sh/projects/portfolio-website
